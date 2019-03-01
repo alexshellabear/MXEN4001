@@ -1,0 +1,12 @@
+
+Codewheel & Encoder Models
+==========================
+
+
+Codewheel	HEDS5120-A11	2-channel	4MM	Farnell 280-896
+=========
+
+
+Encoder		HEDS9100-A00	2-channel	Farnell 415-327
+
+	
